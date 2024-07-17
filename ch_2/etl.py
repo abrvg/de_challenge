@@ -182,7 +182,7 @@ if __name__ == '__main__':
 
     # OUTPUT FILES
     user_file = "output_data/Users.csv"
-    event_file = "output_data/Event.csv"
+    event_file = "output_data/Events.csv"
     transaction_file = "output_data/Transactions.csv"
 
     # Create output csv if not exists (destination files)
